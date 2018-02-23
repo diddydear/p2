@@ -1,0 +1,29 @@
+body {
+    padding: 40px;
+}
+.friend {
+    border: 1px solid silver;
+    padding: 15px;
+    margin-bottom: 10px;
+    float: left;
+}
+.pad {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.img-left {
+    width: 450px;
+    float: left;
+}
+.map {
+    float: left;
+    margin-left: 15px;
+    border: 0px;
+}
+.clearfix {
+    clear: both;
+}
+.title {
+    font-weight: bold;
+}

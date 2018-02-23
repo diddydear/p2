@@ -1,0 +1,56 @@
+{
+	"Lagos": {
+		"id": 0,
+		"name": "Mabel Jones",
+		"gender": "Female",
+		"area": "Mile2",
+		"hobby": "Reading",
+		"display_pic": "images/Mabel.jpg",
+		"about": "I enjoy meeting new people and finding ways to help them have an uplifting experience.",
+		"long": "6.466616",
+		"lat": "3.319191"
+	},
+	"Abuja": {
+		"id": 1,
+		"name": "Geoffrey John",
+		"gender": "Male",
+		"area": "Wuse2",
+		"hobby": "Computing",
+		"display_pic": "images/geoffrey.jpg",
+		"about": "I have had a variety of customer service opportunities, through which I was able to have fewer returned products and increased repeat customers, when compared with co-workers.",
+		"long": "9.078825",
+		"lat": "7.466701"
+	},
+	"Rivers": {
+		"id": 2,
+		"name": "Mary Williams",
+		"gender": "Female",
+		"area": "Port Harcourt",
+		"hobby": "Cooking",
+		"display_pic": "images/mary.jpg",
+		"about": "I love sports, travelling and philanthropy. Join me and donate to a cause today!",
+		"long": "4.824418",
+		"lat": "6.974491"
+	},
+	"Niger": {
+		"id": 3,
+		"name": "Rose Magram",
+		"gender": "Female",
+		"area": "Minna",
+		"hobby": "Making Friends",
+		"display_pic": "images/rose.jpg",
+		"about": "I am passionate about preserving the environment through creating awareness in sustainable practices.",
+		"long": "9.615756",
+		"lat": "6.543622"
+	},
+	"Benue": {
+		"id": 4,
+		"name": "Sam Jay",
+		"area": "Markurdi",
+		"hobby": "Gaming",
+		"display_pic": "images/sam.jpg",
+		"about": "I'm enthusiastic about renewable energy as the future for alternative and sustainable energy forms. Join my quest to promote it!",
+		"long": "7.730104",
+		"lat": "8.532576"
+	}
+}
